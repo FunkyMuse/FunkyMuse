@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hello Neo 👓
 
-<!--
-**CraZyLegenD/CraZyLegenD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Matrix SVG](https://raw.githubusercontent.com/CraZyLegenD/CraZyLegenD/master/matrix.svg)](https://www.youtube.com/watch?v=YgJ5ZEn67tk)
 
-Here are some ideas to get you started:
+# Know thyself ☝
+- 🐇 Follow the white rabbit.
+- 💊 Unfortunately, no one can be told what the Matrix is, you have to see it for yourself.
+- 🥄 There is no spoon ...
+- 🧠 Free your mind 
+- 📝 [Blog](https://www.crazylegend.dev/)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:** 
+<p>
+  <a href="https://github.com/CraZyLegenD/Set-Of-Useful-Kotlin-Extensions-and-Helpers">
+    <img width="45%" align="right" alt="CraZyLegenD's github stats" src="https://github-readme-stats.vercel.app/api?username=CraZyLegenD&hide=["issues"]&show_icons=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-ar21.svg"></code>
+</p>
+
+---
+
+👇🏻 Open Source projects I work on: 👇🏻
