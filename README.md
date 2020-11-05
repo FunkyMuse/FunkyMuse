@@ -4,7 +4,6 @@
 
 # Know thyself ☝
 - 🐇 Follow the white rabbit.
-- 💊 Unfortunately, no one can be told what the Matrix is, you have to see it for yourself.
 - 🥄 There is no spoon ...
 - 🧠 Free your mind 
 - 📝 [Blog](https://www.crazylegend.dev/)
