@@ -1,4 +1,4 @@
-### Hello Neo 👓
+### Hello 👓
 
 [![Matrix SVG](https://raw.githubusercontent.com/CraZyLegenD/CraZyLegenD/master/matrix.svg)](https://www.youtube.com/watch?v=YgJ5ZEn67tk)
 
@@ -7,6 +7,7 @@
 - 🥄 There is no spoon ...
 - 🧠 Free your mind 
 - 📝 [Blog](https://www.crazylegend.dev/)
+- 🧰 [All of my apps](https://www.crazylegend.dev/p/all-of-my-apps.html)
 ---
 
 **Languages and Tools:** 
