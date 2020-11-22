@@ -1,19 +1,19 @@
 ### Hello 👓
 
-[![Matrix SVG](https://raw.githubusercontent.com/CraZyLegenD/CraZyLegenD/master/matrix.svg)](https://www.youtube.com/watch?v=YgJ5ZEn67tk)
+[![Matrix SVG](https://raw.githubusercontent.com/FunkyMuse/FunkyMuse/master/matrix.svg)](https://www.youtube.com/watch?v=YgJ5ZEn67tk)
 
 # Know thyself ☝
 - 🐇 Follow the white rabbit.
 - 🥄 There is no spoon ...
 - 🧠 Free your mind 
-- 📝 [Blog](https://www.crazylegend.dev/)
-- 🧰 [All of my apps](https://www.crazylegend.dev/p/all-of-my-apps.html)
+- 📝 [Blog](https://www.funkymuse.dev/)
+- 🧰 [All of my apps](https://www.funkymuse.dev/p/all-of-my-apps.html)
 ---
 
 **Languages and Tools:** 
 <p>
-  <a href="https://github.com/CraZyLegenD/Set-Of-Useful-Kotlin-Extensions-and-Helpers">
-    <img width="45%" align="right" alt="CraZyLegenD's github stats" src="https://github-readme-stats.vercel.app/api?username=CraZyLegenD&hide=["issues"]&show_icons=true" />
+  <a href="https://github.com/FunkyMuse/Set-Of-Useful-Kotlin-Extensions-and-Helpers">
+    <img width="45%" align="right" alt="FunkyMuse's github stats" src="https://github-readme-stats.vercel.app/api?username=FunkyMuse&hide=["issues"]&show_icons=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
