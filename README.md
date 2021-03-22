@@ -6,7 +6,7 @@
 - 🐇 Follow the white rabbit.
 - 🥄 There is no spoon ...
 - 🧠 Free your mind 
-- 📝 [Blog](https://www.funkymuse.dev/)
+- 📝 [Blog](https://funkymuse.dev/)
 - 🧰 [All of my apps](https://www.funkymuse.dev/p/all-of-my-apps.html)
 ---
 
