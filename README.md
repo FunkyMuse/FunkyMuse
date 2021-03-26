@@ -7,7 +7,7 @@
 - 🥄 There is no spoon ...
 - 🧠 Free your mind 
 - 📝 [Blog](https://funkymuse.dev/)
-- 🧰 [All of my apps](https://www.funkymuse.dev/p/all-of-my-apps.html)
+- 🧰 [All of my apps](https://funkymuse.dev/apps/)
 ---
 
 👇🏻 Open Source projects I work on: 👇🏻
