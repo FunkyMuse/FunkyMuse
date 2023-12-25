@@ -2,8 +2,8 @@
 
 - 🐇 Follow the white theme.
 - 🥄 There is no IDE ...
-- 🧠 Free your memory 
+- 🧠 Free your memory.
 - 📝 [Blog](https://funkymuse.dev/)
 ---
 
-👇🏻 Open Source projects I work on: 👇🏻
+👇🏻 Open Source projects by me: 👇🏻
