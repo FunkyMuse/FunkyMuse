@@ -1,9 +1,8 @@
 ### Hello 👓
 
-# Know thyself ☝
-- 🐇 Follow the white rabbit.
-- 🥄 There is no spoon ...
-- 🧠 Free your mind 
+- 🐇 Follow the white theme.
+- 🥄 There is no IDE ...
+- 🧠 Free your memory 
 - 📝 [Blog](https://funkymuse.dev/)
 ---
 
